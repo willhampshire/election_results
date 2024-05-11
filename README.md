@@ -23,4 +23,4 @@ Field names are not present on the output CSV files.
 
 You may also be able to just download the database election_results.db and query that using your SQL flavour of choice.
 
-![Example visualisation of total party votes](https://github.com/willhampshire/election_results/total_party_votes_bubbles.png?raw=true)
+![Example visualisation of total party votes](https://github.com/willhampshire/election_results/blob/main/total_party_votes_bubbles.png?raw=true)
