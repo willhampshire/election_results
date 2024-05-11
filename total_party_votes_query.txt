@@ -1,0 +1,4 @@
+SELECT party, SUM(votes) AS total_votes
+FROM candidates
+GROUP BY party
+ORDER BY total_votes DESC;

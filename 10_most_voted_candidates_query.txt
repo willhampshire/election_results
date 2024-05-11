@@ -1,0 +1,4 @@
+SELECT name, votes, party
+FROM candidates
+ORDER BY votes DESC
+LIMIT 10;

@@ -1,0 +1,5 @@
+SELECT DISTINCT candidate, party, constituency,
+                ROUND((CAST(votes AS float) / electorate_size), 2) AS vote_of_electorate_size_pc,
+                votes, electorate_size
+FROM electorates
+ORDER BY vote_of_electorate_size_pc DESC, electorate_size DESC;

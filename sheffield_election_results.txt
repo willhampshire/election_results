@@ -1,0 +1,2339 @@
+
+  
+   
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Beauchief and Greenhill
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Sophie Jane Thornton, Liberal Democrats
+    <br/>
+    Total votes: 4538
+    <br/>
+    Rejected ballots: 28
+    <br/>
+    Electorate: 13,790
+    <br/>
+    Turnout: 33.11%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Gill Black, Green Party, 574 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Claire Newman, Heritage Party, 104 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Hafeas Rehman, Labour Party, 1446 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Anne Smith, Conservative Party, 396 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Daniel Lucas Smith, Trade Unionist and Socialist Coalition, 81 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Sophie Jane Thornton, Liberal Democrats, 1937 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Beighton
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Ann Doreen Woolhouse, Liberal Democrats
+    <br/>
+    Total votes: 3625
+    <br/>
+    Rejected ballots: 37
+    <br/>
+    Electorate: 13,228
+    <br/>
+    Turnout: 27.68%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    <span>
+     Lisa Banes
+    </span>
+    , Labour Party, 1353 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Shirley Diane Clayton, Conservative Party, 579 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Mark Dixey, Trade Unionist and Socialist Coalition, 83 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Stewart John Clifford Kemp, Green Party, 255 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Ann Doreen Woolhouse, Liberal Democrats, 1355 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Birley
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Matthew Robert Dwyer, Labour Party
+    <br/>
+    Total votes: 3190
+    <br/>
+    Rejected ballots: 14
+    <br/>
+    Electorate: 12,495
+    <br/>
+    Turnout: 25.64%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    David James Cronshaw, Independent, 647 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Matthew Robert Dwyer, Labour Party, 1520 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Willis James Marshall, Liberal Democrats, 288 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Andrea Ugolini, Trade Unionist and Socialist Coalition, 49 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Steven Dominic Winstone, Conservative Party, 378 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Alan Yearsley, Green Party, 308 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Broomhill and Sharrow Vale
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Brian Holmshaw, Green Party
+    <br/>
+    Total votes: 5810
+    <br/>
+    Rejected ballots: 43
+    <br/>
+    Electorate: 15,848
+    <br/>
+    Turnout: 36.93%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Edward Boyle, Trade Unionist and Socialist Coalition, 137 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Abdiaziz Nasir Ducaleh, Labour and Co-operative Party, 1951 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Patrick William Gilbert, Liberal Democrats, 355 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Brian Holmshaw, Green Party, 2963 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Joanne Lowe, Conservative Party, 278 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Mike Pomranz, Independent, 126 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Burngreave
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Safiya Saeed, Labour Party
+    <br/>
+    Total votes: 3948
+    <br/>
+    Rejected ballots: 39
+    <br/>
+    Electorate: 14,710
+    <br/>
+    Turnout: 27.10%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Mustafa Ali Ahmed, Green Party, 894 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Hollie Charlotte Buisson, Trade Unionist and Socialist Coalition, 119 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    James Robert Ellwood, Liberal Democrats, 302 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Mohammad Nisar, Independent, 612 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Safiya Saeed, Labour Party, 1780 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Alma Thule, Conservative Party, 241 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     City
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Douglas Johnson, Green Party
+    <br/>
+    Total votes: 2652
+    <br/>
+    Rejected ballots: 16
+    <br/>
+    Electorate: 12,842
+    <br/>
+    Turnout: 20.78%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Ashish Bhandari, Conservative Party, 162 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Shelley Anne Cockayne, Liberal Democrats, 141 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Thomas Evans, Labour Party, 901 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Douglas Johnson, Green Party, 1362 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Maddie Rooney, Trade Unionist and Socialist Coalition, 86 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Crookes and Crosspool
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Ruth Marion Milsom, Labour and Co-operative Party
+    <br/>
+    Total votes: 6852
+    <br/>
+    Rejected ballots: 36
+    <br/>
+    Electorate: 13,518
+    <br/>
+    Turnout: 50.95%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    <span>
+     Barry Jordan, Liberal Democrats, 2188 votes
+    </span>
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Joseph Lewis Hibbert, Trade Unionist and Socialist Coalition, 77 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Oscar Idle, Green Party, 972 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Ruth Marion Milsom, Labour and Co-operative Party, 3310 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Marina Round, Conservative Party, 305 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Darnall
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Qais Al-Ahdal, Independent Party
+    <br/>
+    Total votes: 4537
+    <br/>
+    Rejected ballots: 47
+    <br/>
+    Electorate: 13,835
+    <br/>
+    Turnout: 33.13%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Qais Al-Ahdal, Independent, 2402 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Joydu Al-Mahfuz, Green Party, 311 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Sajid Ghafur, Labour Party, 1223 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Muzafar Rahman, Conservative Party, 207 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    <span>
+     Philip Henry Winn, Liberal Democrats, 394 votes
+    </span>
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Dore and Totley
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Rebecca Atkinson, Liberal Democrats
+    <br/>
+    Total votes: 6404
+    <br/>
+    Rejected ballots: 46
+    <br/>
+    Electorate: 14,649
+    <br/>
+    Turnout: 44.03%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Rebecca Atkinson, Liberal Democrats, 3283 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Luke Johnathon Elliott Brownbill, Trade Unionist and Socialist Coalition, 56 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Sam Savory, Labour Party, 1390 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Zoe Steane, Conservative Party, 879 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Bex Winter, Green Party, 796 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     East Ecclesfield
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Alan Geoffrey Woodcock, Liberal Democrats
+    <br/>
+    Total votes: 4456
+    <br/>
+    Rejected ballots: 34
+    <br/>
+    Electorate: 13,894
+    <br/>
+    Turnout: 32.32%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Rebecca Fryer, Trade Unionist and Socialist Coalition, 99 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Bridget Kelly, Labour and Co-operative Party, 1705 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Kevin John Mahoney, Conservative Party, 475 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Rosie Trevillion, Green Party, 271 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Alan Geoffrey Woodcock, Liberal Democrats, 1906 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Ecclesall
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Peter Gilbert, Green Party
+    <br/>
+    Total votes: 8340
+    <br/>
+    Rejected ballots: 53
+    <br/>
+    Electorate: 15,887
+    <br/>
+    Turnout: 52.83%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Roger Noel Davison, Liberal Democrats, 2751 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    <span>
+     Noah Thomas Eden
+    </span>
+    , Trade Unionist and Socialist Coalition, 74 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Peter Gilbert, Green Party, 3147 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Lisa Markham, Labour Party, 1915 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Gordan Ronald Millward, Conservative Party, 453 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Firth Park
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Two candidates were elected for the Firth Park ward:
+   </p>
+  </p>
+  <p class="p1">
+   <p>
+    Fran Belbin, Labour and Co-operative Party
+   </p>
+  </p>
+  <p class="p1">
+   <p>
+    and
+   </p>
+  </p>
+  <p class="p1">
+   <p>
+    Nikki Sarah Belfield, Labour and Co-operative Party
+    <br/>
+    <br/>
+    Total votes: 5323
+    <br/>
+    Rejected ballots: 29
+    <br/>
+    Electorate: 14,380
+    <br/>
+    Turnout: 21.18%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Fran Belbin, Labour and Co-operative Party, 1585 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Nikki Sarah Belfield, Labour and Co-operative Party, 1605 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    John Charles Booker, Independent, 201 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Michael Edward Brown, Liberal Democrats, 212 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Brendon Patrick John Colk, Conservative Party, 310 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Aliou Diallo, Conservative Party, 184 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Joanna Kate Hall, Trade Unionist and Socialist Coalition, 185 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Colin Mcculloch, Green Party, 381 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Eamonn Ward, Green Party, 438 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Julia Alexandra Wright, Liberal Democrats, 222 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Fulwood
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Sue Alston, Liberal Democrats
+    <br/>
+    Total votes: 6121
+    <br/>
+    Rejected ballots: 39
+    <br/>
+    Electorate: 13,177
+    <br/>
+    Turnout: 46.75%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Sue Alston, Liberal Democrats, 2952 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    John Bunn, Trade Unionist and Socialist Coalition, 78 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Winko Kyaw Oo, Labour Party, 1610 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Judith Rutnam, Green Party, 975 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Thomas James Wilson, Conservative Party, 506 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Gleadless Valley
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Alexi Dimond, Green Party
+    <br/>
+    Total votes: 4720
+    <br/>
+    Rejected ballots: 37
+    <br/>
+    Electorate: 13,465
+    <br/>
+    Turnout: 35.33%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Bethany Lauren Cheshire, Labour and Co-operative Party, 1607 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Brett Colk, Conservative Party, 281 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Alexi Dimond, Green Party, 2462 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    John Dryden, Liberal Democrats, 238 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Simon Jenkins, Trade Unionist and Socialist Coalition, 132 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Graves Park
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Rob Bannister, Labour Party
+    <br/>
+    Total votes: 5375
+    <br/>
+    Rejected ballots: 40
+    <br/>
+    Electorate: 13,458
+    <br/>
+    Turnout: 40.24%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Thomas Atkin-Withers, Green Party, 1043 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Liam George Ball, Trade Unionist and Socialist Coalition, 126 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Rob Bannister, Labour Party, 1954 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Chris Garratt, Conservative Party, 396 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Tariq Mahmood Zaman, Liberal Democrats, 1856 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Hillsborough
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Christine Gilligan Kubo, Green Party
+    <br/>
+    Total votes: 5309
+    <br/>
+    Rejected ballots: 23
+    <br/>
+    Electorate: 14,721
+    <br/>
+    Turnout: 36.22%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Patricia Barnsley, Conservative Party, 363 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Leah Amy Byatt, Trade Unionist and Socialist Coalition, 118 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Christine Gilligan Kubo, Green Party, 2726 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    John Hartley, Heritage Party, 126 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Chris Lynch, Liberal Democrats, 213 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Bren Twomey, Labour Party, 1763 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Manor Castle
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Elle Dodd, Labour and Co-operative Party
+    <br/>
+    Total votes: 3265
+    <br/>
+    Rejected ballots: 23
+    <br/>
+    Electorate: 14,938
+    <br/>
+    Turnout: 22.01%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Seun Ajao, Conservative Party, 308 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Elle Dodd, Labour and Co-operative Party, 1881 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Ruth Flagg-Abbey, Green Party, 603 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Craig Judson, Independent, 175 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Stephanie Kenning, Liberal Democrats, 170 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Alistair Tice, Trade Unionist and Socialist Coalition, 128 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Mosborough
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Tony Downing, Labour Party
+    <br/>
+    Total votes: 4186
+    <br/>
+    Rejected ballots: 21
+    <br/>
+    Electorate: 13,499
+    <br/>
+    Turnout: 31.17%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Jonny Dixon, Liberal Democrats, 1523 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Tony Downing, Labour Party, 2035 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Eve Millward, Conservative Party, 450 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Rory Smith, Trade Unionist and Socialist Coalition, 28 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Julie White, Green Party, 150 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Nether Edge and Sharrow
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Maroof Raouf, Green Party
+    <br/>
+    Total votes: 6518
+    <br/>
+    Rejected ballots: 66
+    <br/>
+    Electorate: 15,362
+    <br/>
+    Turnout: 42.86%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    John Westley Chapman, Conservative Party, 253 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Bridget Rose Gilbert, Trade Unionist and Socialist Coalition, 172 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Derek Holmes Martin, Labour and Co-operative Party, 2549 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Nasar Raoof, Liberal Democrats, 501 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Maroof Raouf, Green Party, 2662 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Fayyaz Hussain Shah Ji, Independent, 381 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Park and Arbourthorne
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Mia Drazaic, Labour Party
+    <br/>
+    Total votes: 3161
+    <br/>
+    Rejected ballots: 33
+    <br/>
+    Electorate: 13,090
+    <br/>
+    Turnout: 24.4%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Richard Harry Blyth, Conservative Party, 467 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Mia Drazaic, Labour Party, 1607 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Jack Jeffery, Trade Unionist and Socialist Coalition, 153 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Ann Patricia Kingdom, Liberal Democrats, 273 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Annie Stoker, Social Democratic Party, 175 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Billie Turner, Green Party, 486 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Richmond
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: David Charles Barker, Labour Party
+    <br/>
+    Total votes: 3218
+    <br/>
+    Rejected ballots: 25
+    <br/>
+    Electorate: 13,798
+    <br/>
+    Turnout: 23.5%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    David Charles Barker, Labour Party, 1728 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Luke Hunt, Green Party, 339 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Brian Kus, Reform UK, 502 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Adil Shaffaq Mohammed, Liberal Democrats, 124 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Christine Saunders, Conservative Party, 401 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Sue Statter, Trade Unionist and Socialist Coalition, 124 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Shiregreen and Brightside
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Mark Simon Rusling, Labour and Co-operative Party
+    <br/>
+    Total votes: 2827
+    <br/>
+    Rejected ballots: 23
+    <br/>
+    Electorate: 13,664
+    <br/>
+    Turnout: 20.86%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Rachel Esther Barker, Liberal Democrats, 180 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Roger Barnsley, Conservative Party, 434 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Tracy Booker, Independent, 202 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Joel Gilbert, Green Party, 387 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Patricia Prystupa, Trade Unionist and Socialist Coalition, 77 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Mark Simon Rusling, Labour and Co-operative Party, 1547 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Southey
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Gareth Edward Slater, Labour Party
+    <br/>
+    Total votes: 2746
+    <br/>
+    Rejected ballots: 18
+    <br/>
+    Electorate: 14,018
+    <br/>
+    Turnout: 19.72%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Tony Damms, Independent, 318 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Kevin Grum, Liberal Democrats, 196 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Andrew Hards, Green Party, 376 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Harry John Lomas, Trade Unionist and Socialist Coalition, 99 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Gareth Edward Slater, Labour Party, 1438 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Andrew Mark Smith, Conservative Party, 319 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Stannington
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Richard Neil Williams, Liberal Democrats
+    <br/>
+    Total votes: 4871
+    <br/>
+    Rejected ballots: 32
+    <br/>
+    Electorate: 14,304
+    <br/>
+    Turnout: 34.28%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Lewis William Blake Dagnall, Labour and Co-operative Party, 1589 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Chris Bragg, Green Party, 692 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Isaac Howarth, Conservative Party, 521 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Robert Mark Simpson, Trade Unionist and Socialist Coalition, 110 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Richard Neil Williams, Liberal Democrats, 1959 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Stocksbridge and Upper Don
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Mark Harris Whittaker, Labour Party
+    <br/>
+    Total votes: 4840
+    <br/>
+    Rejected ballots: 44
+    <br/>
+    Electorate: 14,495
+    <br/>
+    Turnout: 33.69%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Susan Davidson, Liberal Democrats, 398 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Matthew Philip Dixon, Conservative Party, 1341 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Mark Harris Whittaker, Labour Party, 2399 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    David Willington, Green Party, 607 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Claire Suzanne Wraith, Trade Unionist and Socialist Coalition, 95 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Walkley
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: John Wright, Labour and Co-operative Party
+    <br/>
+    Total votes: 5556
+    <br/>
+    Rejected ballots: 40
+    <br/>
+    Electorate: 14,925
+    <br/>
+    Turnout: 37.49%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Isabelle Amy France, Trade Unionist and Socialist Coalition, 166 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Tim Grindley, Heritage Party, 132 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Dylan Lewis-Creser, Green Party, 1782 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Liam Neilson, Conservative Party, 296 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Alex Purvis, Liberal Democrats, 322 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Ben Ughetti, Communist Party of Britain, 69 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    John Wright, Labour and Co-operative Party, 2789 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     West Ecclesfield
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Ann Christine Whitaker, Liberal Democrats
+    <br/>
+    Total votes: 4111
+    <br/>
+    Rejected ballots: 34
+    <br/>
+    Electorate: 13,463
+    <br/>
+    Turnout: 30.79%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Kathy Aston, Green Party, 288 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Tom Blandford, Labour and Co-operative Party, 1584 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Scott Darby, Conservative Party, 465 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Christie Rose Littlewood, Trade Unionist and Socialist Coalition, 112 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Ann Christine Whitaker, Liberal Democrats, 1662 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field field--name-localgov-text field--type-text-long field--label-hidden field__item">
+    <h4>
+     Woodhouse
+    </h4>
+   </div>
+  </p>
+  <p class="p1">
+   <p>
+    Elected: Mick Rooney, Labour and Co-operative Party
+    <br/>
+    Total votes: 3130
+    <br/>
+    Rejected ballots: 12
+    <br/>
+    Electorate: 12,780
+    <br/>
+    Turnout: 24.59%
+   </p>
+  </p>
+  <p class="p1">
+   <ul>
+   </ul>
+  </p>
+  <p class="p1">
+   <li>
+    Jack Carrington, Independent, 272 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Joshua Andrew Crapper, Trade Unionist and Socialist Coalition, 89 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Charles Phillip Edwardson, Liberal Democrats, 195 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Mary Love, Conservative Party, 453 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Hannah Nicklin, Green Party, 311 votes
+   </li>
+  </p>
+  <p class="p1">
+   <li>
+    Mick Rooney, Labour and Co-operative Party, 1810 votes
+   </li>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+   <div class="field__item">
+    <span class="Apple-converted-space">
+    </span>
+    <div class="paragraph paragraph--type--localgov-text paragraph--view-mode--default">
+    </div>
+   </div>
+  </p>
+  <p class="p2">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+  <p class="p1">
+   <span class="Apple-converted-space">
+   </span>
+  </p>
+ </body>
+</html>

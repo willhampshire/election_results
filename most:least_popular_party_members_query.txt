@@ -1,0 +1,4 @@
+SELECT party, name AS candidate, MAX(votes) AS max_votes
+FROM candidates
+GROUP BY party
+ORDER BY max_votes DESC;
