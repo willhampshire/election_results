@@ -9,6 +9,9 @@ You can also perform your own analysis on the data with the results provided.
 I used PyCharm, which has built-in SQLite console support for querying the data after scraping. requirements.txt included.
 One thing to be aware of is only running the script once or you will have duplicates in your SQL database (this could be fixed with IF NOT EXISTS, but I wanted to keep the query simple).
 
+# Preparation
+To run the script on the raw html, I recommend copying and pasting the HTML source of the website to a .txt, then deleting any unnecesary info (I chose to only analyse 2024 results, so script will not handle the other years and may get confused). Manually encompass the results in a div (place <div> at the beginning and </div> at the end of the txt) so that bettersoup can identify this as the parent tag, and search between child/sibling tags inside this. This can now be saved and file path copied into the script.
+
 # Usage
 - Run Python script, election_results_scraping.py, with packages requirements.txt
 - Open SQLite console and execute the queries (saved in txt files)
