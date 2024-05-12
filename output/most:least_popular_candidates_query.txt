@@ -1,3 +1,5 @@
+Change max to min for least voted candidates
+
 SELECT party, name AS candidate, MAX(votes) AS max_votes
 FROM candidates
 GROUP BY party
