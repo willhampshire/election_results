@@ -21,7 +21,7 @@ To run the script on the raw html, I recommend copying and pasting the HTML sour
 Where there is only one candidate running for a party, they are both the most and least voted for candidate in their party.
 Field names are not present on the output CSV files.
 
-You may also be able to just download the database election_results.db and query that using your SQL flavour of choice.
+You could also download the database output/election_results.db and query directly.
 
 Example visualisation of total party votes:
 
